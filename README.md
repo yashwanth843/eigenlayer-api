@@ -69,6 +69,7 @@ It provides endpoints to retrieve user restaking info, validator metadata, and r
 ├── package.json
 
 github-link:https://github.com/yashwanth843/eigenlayer-api
+
 depolyed Link: https://eigenlayer-api-1.onrender.com/restakers
 
 **Install dependencies**
